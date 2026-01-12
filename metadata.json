@@ -1,0 +1,5 @@
+{
+  "name": "ReticMaster Web",
+  "description": "A web-based electrical network analysis tool featuring a graphical single-line diagram editor and AI-powered load flow and fault analysis.",
+  "requestFramePermissions": []
+}
